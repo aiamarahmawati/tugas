@@ -13,7 +13,6 @@
   <!-- HEADER -->
   <div class="mb-4">
     <h1 class="fw-bold">📋 Tugasku</h1>
-    <p class="text-muted">Catat, kelola, dan selesaikan tugasku!</p>
   </div>
 
   <!-- FORM TAMBAH TUGAS -->
